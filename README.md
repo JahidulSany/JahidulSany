@@ -20,12 +20,12 @@
 </div>
 
 <h3><strong>I am Jahidul Sany...</strong></h3>
-A <strong>Software Engineer and Cloud Architect 👨‍💻</strong> passionate about designing and delivering seamless, scalable, and interactive applications powered by modern technologies. With strong expertise in Python, JavaScript, and AWS, I enjoy architecting cloud-native solutions and creating intuitive user interfaces that enhance user experience. Beyond coding, I actively explore emerging technologies, contribute to open-source projects, and find inspiration in the scenic landscapes of England.
+A <strong>Full Stack Developer and Cloud Architect 👨‍💻</strong> passionate about designing and delivering seamless, scalable, and interactive applications powered by modern technologies. With strong expertise in Python, JavaScript, and AWS, I enjoy architecting cloud-native solutions and creating intuitive user interfaces that enhance user experience. Beyond coding, I actively explore emerging technologies, contribute to open-source projects, and find inspiration in the scenic landscapes of England.
 
 <h2>🛠️ Skills And Expertises:</h2>
 <p align="left">
   <a href="https://jahidulsany.co.uk">
-    <img src="https://skillicons.dev/icons?i=git,figma,aws,python,fastapi,react,redux,nextjs,expressjs,postgresql,mongodb" />
+    <img src="https://skillicons.dev/icons?i=git,figma,bootstrap,tailwind,typescript,react,nodejs,expressjs,sequelize,mongodb,jest,redux,nextjs,python,aws" />
   </a>
 </p>
 
@@ -53,5 +53,5 @@ A <strong>Software Engineer and Cloud Architect 👨‍💻</strong> passionate 
 
 - 🌱 I’m currently learning FastAPI and AWS Cloud Technology.
 - 🔭 I’m currently working on several Projects in Node.js, and Python with AWS.
-- 🕵️‍♂️ I'm eagerly looking for a Software Engineer role
+- 🕵️‍♂️ I'm eagerly looking for a Web or Software Developer role
 
